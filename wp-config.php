@@ -22,6 +22,7 @@
 
 // ** Réglages MySQL - Votre hébergeur doit vous fournir ces informations. ** //
 /** Nom de la base de données de WordPress. */
+define('REVISR_GIT_PATH', 'https://github.com/celstuv/BananaDesign.git'); // Added by Revisr
 define('WP_CACHE', true);
 define( 'WPCACHEHOME', 'C:\wamp64\www\MonSuperSite\wp-content\plugins\wp-super-cache/' );
 define( 'DB_NAME', 'monsupersite' );
